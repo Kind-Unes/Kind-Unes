@@ -8,7 +8,9 @@
 <details>
 <summary>Open profile</summary>
 
-[comment]: <> (View Counter)
+  ![Alt text](https://camo.githubusercontent.com/16f93ae6e1e6ec4e43289b79099f62e62361e750ad5d9754395bb8aa4b9081fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)
+
+
 <br>
 <div>
   <div align=center>
@@ -207,5 +209,5 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 -----
-Credits: [Austinae](https://github.com/Austinae)
-Last Edited on: 23/12/2022
+
+Last Edited on: 08/02/2024

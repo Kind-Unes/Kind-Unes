@@ -1,4 +1,5 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+![Alt text](https://camo.githubusercontent.com/16f93ae6e1e6ec4e43289b79099f62e62361e750ad5d9754395bb8aa4b9081fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)
+
 
 <div align="center">
 
@@ -8,7 +9,6 @@
 <details>
 <summary>Open profile</summary>
 
-  ![Alt text](https://camo.githubusercontent.com/16f93ae6e1e6ec4e43289b79099f62e62361e750ad5d9754395bb8aa4b9081fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)
 
 
 <br>

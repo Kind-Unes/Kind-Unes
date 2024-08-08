@@ -7,4 +7,5 @@
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kind-unes&label=Profile%20views&color=0e75b6&style=flat" alt="kind-unes" /> </p>
-![My Image]([https://github.com/username/repo-name/raw/main/path-to-your-image.png](https://github.com/Kind-Unes/Kind-Unes/raw/main/Screenshot%202024-08-08%20180541.png))
+  <img src="Screenshot 2024-08-08 180541.png" width="200" />
+

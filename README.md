@@ -7,5 +7,5 @@
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kind-unes&label=Profile%20views&color=0e75b6&style=flat" alt="kind-unes" /> </p>
-  <img src="Screenshot 2024-08-08 180541.png" width="200" />
+  <img src="Screenshot 2024-08-08 180541.png" width="100%" />
 

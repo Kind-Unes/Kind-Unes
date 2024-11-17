@@ -6,8 +6,8 @@
 
 ### I create **top-tier Flutter Apps** **(Check out my repositories for more details)**.
 
-**- Many of my projects are **closed source**  
-**- If you're a developer or business-owner interested in accessing the source code, you can order it through my website. (Click the red button below to visit):**
+- Many of my projects are **closed source**  
+- If you're a **developer or business-owner** interested in accessing the **source code**, you can order it through my website. **(Click the red button below to visit)**:
 
 <p align="center">
   <a href="https://younes-codes.web.app">

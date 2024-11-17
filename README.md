@@ -2,12 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=kind-unes&label=Profile%20views&color=0e75b6&style=flat" alt="kind-unes" />
 </p>
 
-### **Hi, I'm Younes – Expert Mobile Developer**
+## **Hi, I'm Younes – Expert Mobile Developer**
 
-I specialize in creating **top-tier Flutter applications** and **MERN stack websites**. Check out my repositories for more details.
+### I specialize in creating **top-tier Flutter applications** and **MERN stack websites**. Check out my repositories for more details.
 
-- Many of my projects are **closed source**, so the source code is not publicly available.  
-- If you're a developer or business owner interested in accessing the source code, you can order it through my website. Click the red button below to visit:
+**- Many of my projects are **closed source**, so the source code is not publicly available.**  
+**- If you're a developer or business owner interested in accessing the source code, you can order it through my website. Click the red button below to visit:**
 
 <p align="center">
   <a href="https://younes-codes.web.app">

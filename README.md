@@ -4,10 +4,7 @@
 
 ## **Hi, I'm Younes – Expert Mobile Developer**
 
-### I create **top-tier Flutter Apps** **(Check out my repositories for more details)**.
-
-- Many of my projects are **closed source**  
-- If you're a **developer or business-owner** interested in accessing the **source code**, you can order it through my website. **(Click the red button below to visit)**:
+If you're a **developer or business-owner** interested in accessing the **source code**, you can order it through my website. **(Click the red button below to visit)**:
 
 <p align="center">
   <a href="https://wa.me/message/ERKHEXO2Q2FKN1">

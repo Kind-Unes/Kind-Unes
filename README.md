@@ -9,7 +9,3 @@
     <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
   </a>
 </p>
-
-<p align="center">
-  <img src="Screenshot 2024-08-08 180541.png" width="100%" />
-</p>

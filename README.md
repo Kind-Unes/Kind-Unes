@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=kind-unes&label=Profile%20views&color=0e75b6&style=flat" alt="kind-unes" />
 </p>
 
-### **Hi, I'm Younes a Mobile Apps Engineer
-(if you want to access my apps source code contact me via whatsapp)**
+### Hi, I'm Younes a Mobile Apps Engineer
+**(if you want to access my apps source code contact me via whatsapp)**
 
 <p align="center">
   <a href="https://wa.me/message/ERKHEXO2Q2FKN1">
